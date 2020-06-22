@@ -20,4 +20,4 @@ Theory: More characters seemed like it would lead to network at creating meaning
 6.	40 Epochs (as opposed to 20)
 Theory: This many epochs would lead to over fitting and be counter-productive. 
 
-4 layers with LSTM nodes, width 256 each layer, and using the previous 30 character had the lowest loss rate. 
+4 layers with LSTM nodes, width 128 each layer, and using the previous 30 character had the lowest loss rate. 
